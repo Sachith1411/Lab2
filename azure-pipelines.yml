@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Lab2
+pool: Sachith
 
 steps:
 - script: echo "Stage 1 - Setting up Java version."
